@@ -1,4 +1,4 @@
-baseURL = 'https://venkt.sh/'
+baseURL = 'https://vnkt.sh/'
 languageCode = 'en-us'
-title = 'venkt.sh'
+title = 'vnkt.sh'
 theme = 'PaperMod'
